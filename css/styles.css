@@ -1,0 +1,13 @@
+#show1, #show2, #show3{
+  display: none;
+}
+body {
+  font-family: Yanone Kaffeesatz;
+  font-size: 1.2em;
+}
+.jumbotron{
+  background-color: #20c997;
+}
+.center{
+  text-align: center;
+}
